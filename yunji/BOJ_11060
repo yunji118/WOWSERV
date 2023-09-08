@@ -30,5 +30,5 @@ public class BOJ_11060 {
 		System.out.println(dp[N-1] == 1001 ? -1 : dp[N-1]);
 
 	}
-
+ 
 }
